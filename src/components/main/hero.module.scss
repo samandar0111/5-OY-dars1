@@ -1,0 +1,53 @@
+.container{
+  max-width: 1500px;
+  margin:  0 auto;
+}
+.imgBox{
+  position: relative;
+}
+.title{
+  font-size: 64px;
+line-height: 150%;
+letter-spacing: 0.5px;
+max-width: 573px;
+color: #FFFFFF;
+position: absolute;
+top: 32%;
+left: 11%;
+}
+.bbox{
+  border: solid red 1px ;
+  padding: 5px;
+}
+.title1{
+  margin: 10px 0 0 0;
+}
+.count{
+  font-size: 20px;
+
+}
+.count_box{
+  display: flex;
+  margin: 0 auto;
+ 
+  justify-content: center;
+  gap: 10px;
+
+ align-items: center;
+}
+.btn{
+  padding: 3px;
+  height: 30px;
+  width: 30px;
+  
+}
+.list{
+  gap: 30px;
+position: absolute;
+bottom: -32%;
+
+right: 27%;
+}
+.bloc{
+  position: relative;
+}
